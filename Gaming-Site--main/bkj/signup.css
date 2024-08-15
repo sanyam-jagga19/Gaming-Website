@@ -1,0 +1,116 @@
+/* .inner2{
+    background-color: rgb(255, 255, 255);
+    /* width: 50%;
+    height: 100%; */
+    /* border-radius: 1rem; */
+     /* display :flex;  */
+    /* flex-direction: row; */
+      /* margin-left: 720px;  */
+      /* margin-top: 500px;  */
+      /* display: inline-block;
+    border: 1px solid black;
+    width:300px; */
+    /* margin-bottom: 1500px; */
+
+/* } */
+.inner2 form{
+    /* height: 100%; */
+    /* width: 250px; */
+    display: flex;
+    flex-direction: column;
+     align-items: center;
+     gap: 2.0rem; 
+    /* padding-top: 1px; */
+    padding-bottom: 4px;
+    padding-left: 2px;
+    
+}
+body{
+    background-color: gray;
+}
+/* .inner1{
+    /* background-color: red; */
+    /* width: 600px; */
+    /* height: 100%; */
+    /* background-color: white;
+    border: 1px solid black; */
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    /* height: 100%;
+    width: 100%; */
+    /* border-radius: 1rem; */
+    /* flex-direction: row; */
+ /* margin-top: 70px;
+    margin-left: 120px;
+    display: inline-block;/
+}*/
+.inner1 {
+    width: 500px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin-top: 70px;
+    margin-left: 120px;
+    /* height: 500px; */
+    /* display: inline-block; Set display to inline-block */
+}
+
+.inner2 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    margin-left: 720px; /* Adjust margin as needed */
+    /* display: inline-block; Set display to inline-block */
+    border: 1px solid black;
+    width:300px;
+    margin-top: 70px;
+    margin-left: 0ch;
+    /* height: 500px; */
+    /* margin-right: 900px; */
+    /* margin-bottom:100px; */
+}
+ /* .container {
+    display: flex;
+}  */
+.main2{
+    display: flex;
+    margin-left: 300px;
+}
+.inner1 img{
+    margin-top: 0px;
+     transform: scale(.5); 
+}
+form h3{
+    font-size: 3rem;
+    ;
+}
+form input{
+    border: none;
+    border-bottom: 1px solid black;
+     padding: .1rem 1rem; 
+    
+}
+form button{
+    border: none;
+    outline: none;
+    padding: .5rem 2rem;
+    background-color: red;
+    color: white;
+}
+form a{
+    color: red;
+    ;
+}
+/* .la{
+    display: flex;
+} */
+.ab{
+    margin-bottom: 7px;
+}
+.cross-icon{
+    float: right;
+    cursor: pointer;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
